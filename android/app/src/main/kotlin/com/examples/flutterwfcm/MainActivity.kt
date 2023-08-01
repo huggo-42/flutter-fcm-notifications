@@ -1,4 +1,4 @@
-package com.example.flutter_fcm_notifications
+package com.examples.flutterwfcm
 
 import io.flutter.embedding.android.FlutterActivity
 
